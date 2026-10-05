@@ -3,6 +3,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+
+/* second menu */
+
 .middle-menu {
   font-weight: bold;
   font-size: 14px;
@@ -11,4 +14,34 @@ body {
 .middle-menu .col-auto {
   padding-left: 18px;
   padding-right: 18px;
+}
+
+
+/* footer */
+
+footer {
+  background-color: #292929;
+  color: white;
+}
+
+footer h6 {
+  font-size: 14px;
+}
+
+footer p {
+  font-size: 13px;
+}
+
+footer hr {
+  border-color: #777;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+footer .form-control {
+  font-size: 13px;
+}
+
+footer .btn {
+  font-size: 13px;
 }
